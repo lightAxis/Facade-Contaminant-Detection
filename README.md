@@ -8,4 +8,4 @@ C++ / OpenCV 4.01 / YOLOv3 / VS Studio 2019
 
 Dust Detection using image of translunar glass surface with dust
 
-https://github.com/jisuk500/Translunar-Dust-Detection
+https://github.com/lightAxis/Translunar-Dust-Detection
